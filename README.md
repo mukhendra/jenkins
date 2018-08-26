@@ -1,5 +1,13 @@
 #java program
-public class Simple{
-public static void main(String args[]){
-System.out.println("hello javatpoint");
-}}
+kljdgkdjkgd
+g
+dfgl;kdfk;lgdf
+gd;kgdl;fg
+dfg;kldfl;gdf
+gdfjgdfl;kgkdfjkgd'
+dsgk;l';gs
+g;fd'g
+ds;sklgd
+skjglds's
+gk;sdg's
+
